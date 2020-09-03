@@ -1,5 +1,6 @@
 {
   "name": "StandardCplusplus",
+  "version": "0.0.0",
   "keywords": "std, algorithm, stream, vector",
   "description": "Standard C++ for Arduino (port of uClibc++)",
   "repository":
